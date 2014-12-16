@@ -1,7 +1,7 @@
 # crear una tabla con el siguiente contenido
 
 | # | Nombre | Apellido | Ubicacion |
-| ------------- | ------------- || ------------- |
+| ------------- | ------------- | ------------- |
 | 1 | Nombre1 | Apellido1 | Lugar1 |
 | 2 | Nombre2 | Apellido2 | Lugar2 |
 | 3 | Nombre3 | Apellido3 | Lugar3 |
